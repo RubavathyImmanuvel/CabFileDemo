@@ -1,0 +1,9 @@
+
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=DemoApp.cab
+.Set DiskDirectoryTemplate=C:\Users\Lenovo\Documents\Projects\CabFile\DemoApp
+.Set Compress=ON
+
+DemoApp\bin\Debug\DemoApp.exe
+DemoApp\bin\Debug\DemoApp.exe.config
+DemoApp\bin\Debug\DemoApp.pdb
